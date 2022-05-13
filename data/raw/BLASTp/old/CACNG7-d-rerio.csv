@@ -1,0 +1,28 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+CACNG5 [Branchiostoma lanceolatum],Branchiostoma lanceolatum,183,183,65%,1e-52,41.87,332,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH1273586.1?report=genbank&log$=prottop&blast_rank=1&RID=0590682H01R"",""CAH1273586.1"")"
+voltage-dependent calcium channel gamma-5 subunit-like [Branchiostoma floridae],Branchiostoma floridae,182,182,65%,2e-52,41.63,333,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_035696133.1?report=genbank&log$=prottop&blast_rank=2&RID=0590682H01R"",""XP_035696133.1"")"
+PREDICTED: voltage-dependent calcium channel gamma-5 subunit-like [Saccoglossus kowalevskii],Saccoglossus kowalevskii,154,154,60%,2e-42,39.52,247,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_006816113.1?report=genbank&log$=prottop&blast_rank=3&RID=0590682H01R"",""XP_006816113.1"")"
+PREDICTED: voltage-dependent calcium channel gamma-5 subunit-like [Octopus bimaculoides],Octopus bimaculoides,134,134,63%,9e-35,37.66,248,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014776155.1?report=genbank&log$=prottop&blast_rank=4&RID=0590682H01R"",""XP_014776155.1"")"
+hypothetical protein OCBIM_22024219mg [Octopus bimaculoides],Octopus bimaculoides,130,130,63%,2e-31,34.93,467,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF83196.1?report=genbank&log$=prottop&blast_rank=5&RID=0590682H01R"",""KOF83196.1"")"
+PREDICTED: voltage-dependent calcium channel gamma-5 subunit-like [Octopus bimaculoides],Octopus bimaculoides,129,129,63%,3e-31,34.93,463,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014776145.1?report=genbank&log$=prottop&blast_rank=6&RID=0590682H01R"",""XP_014776145.1"")"
+PREDICTED: voltage-dependent calcium channel gamma-7 subunit-like [Saccoglossus kowalevskii],Saccoglossus kowalevskii,108,108,56%,5e-25,34.12,241,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_006822518.1?report=genbank&log$=prottop&blast_rank=7&RID=0590682H01R"",""XP_006822518.1"")"
+transmembrane GluA regulatory protein [Ciona intestinalis],Ciona intestinalis,106,106,55%,1e-22,30.62,753,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/BAV92798.1?report=genbank&log$=prottop&blast_rank=8&RID=0590682H01R"",""BAV92798.1"")"
+uncharacterized protein LOC113474605 [Ciona intestinalis],Ciona intestinalis,101,101,45%,5e-21,34.81,755,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_026692152.1?report=genbank&log$=prottop&blast_rank=9&RID=0590682H01R"",""XP_026692152.1"")"
+hypothetical protein OCBIM_22024222mg [Octopus bimaculoides],Octopus bimaculoides,95.1,95.1,43%,1e-20,36.08,180,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF83199.1?report=genbank&log$=prottop&blast_rank=10&RID=0590682H01R"",""KOF83199.1"")"
+voltage-dependent calcium channel gamma-5 subunit-like [Asterias rubens],Asterias rubens,93.6,93.6,63%,3e-19,29.84,275,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_033631002.1?report=genbank&log$=prottop&blast_rank=11&RID=0590682H01R"",""XP_033631002.1"")"
+hypothetical protein OCBIM_22029385mg [Octopus bimaculoides],Octopus bimaculoides,90.9,90.9,43%,5e-19,37.34,193,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF97505.1?report=genbank&log$=prottop&blast_rank=12&RID=0590682H01R"",""KOF97505.1"")"
+PREDICTED: voltage-dependent calcium channel gamma-5 subunit-like [Octopus bimaculoides],Octopus bimaculoides,90.9,90.9,43%,5e-19,37.34,194,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014788097.1?report=genbank&log$=prottop&blast_rank=13&RID=0590682H01R"",""XP_014788097.1"")"
+hypothetical protein OCBIM_22029385mg [Octopus bimaculoides],Octopus bimaculoides,81.6,81.6,34%,6e-16,41.27,170,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF97504.1?report=genbank&log$=prottop&blast_rank=14&RID=0590682H01R"",""KOF97504.1"")"
+PREDICTED: voltage-dependent calcium channel gamma-5 subunit-like [Priapulus caudatus],Priapulus caudatus,70.5,70.5,35%,4e-12,32.56,142,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014676579.1?report=genbank&log$=prottop&blast_rank=15&RID=0590682H01R"",""XP_014676579.1"")"
+hypothetical protein OCBIM_22027903mg [Octopus bimaculoides],Octopus bimaculoides,62.8,62.8,21%,7e-10,41.56,100,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF97958.1?report=genbank&log$=prottop&blast_rank=16&RID=0590682H01R"",""KOF97958.1"")"
+PREDICTED: uncharacterized protein LOC106806828 [Priapulus caudatus],Priapulus caudatus,66.2,66.2,33%,2e-09,30.17,340,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014664435.1?report=genbank&log$=prottop&blast_rank=17&RID=0590682H01R"",""XP_014664435.1"")"
+hypothetical protein OCBIM_22013785mg [Octopus bimaculoides],Octopus bimaculoides,52.4,52.4,16%,1e-06,49.12,61,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF64385.1?report=genbank&log$=prottop&blast_rank=18&RID=0590682H01R"",""KOF64385.1"")"
+hypothetical protein OCBIM_22024223mg [Octopus bimaculoides],Octopus bimaculoides,52.4,52.4,16%,2e-06,49.12,65,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF83200.1?report=genbank&log$=prottop&blast_rank=19&RID=0590682H01R"",""KOF83200.1"")"
+hypothetical protein OCBIM_22014266mg [Octopus bimaculoides],Octopus bimaculoides,51.2,51.2,16%,3e-06,44.26,62,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF64403.1?report=genbank&log$=prottop&blast_rank=20&RID=0590682H01R"",""KOF64403.1"")"
+STarGazin (mammalian calcium channel) homolog [Caenorhabditis elegans],Caenorhabditis elegans,53.1,53.1,58%,4e-05,20.61,357,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/NP_001024556.2?report=genbank&log$=prottop&blast_rank=21&RID=0590682H01R"",""NP_001024556.2"")"
+
+
+
+		
+
+

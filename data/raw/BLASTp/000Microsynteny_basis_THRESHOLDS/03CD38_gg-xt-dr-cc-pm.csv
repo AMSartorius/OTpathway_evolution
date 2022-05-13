@@ -1,0 +1,30 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1 [Gallus gallus],Gallus gallus,263,263,93%,3e-86,45.05,308,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/NP_001188317.2?report=genbank&log$=prottop&blast_rank=1&RID=0YY7GAM7013"",""NP_001188317.2"")"
+ADP-ribosyl cyclase CD38 [Gallus gallus],Gallus gallus,262,262,93%,1e-85,44.71,308,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/ADQ89191.1?report=genbank&log$=prottop&blast_rank=2&RID=0YY7GAM7013"",""ADQ89191.1"")"
+ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1 [Xenopus tropicalis],Xenopus tropicalis,220,220,82%,5e-70,40.73,253,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/NP_001011230.1?report=genbank&log$=prottop&blast_rank=3&RID=0YY7GAM7013"",""NP_001011230.1"")"
+hypothetical protein XENTR_v10000392 [Xenopus tropicalis],Xenopus tropicalis,220,220,83%,2e-69,40.40,300,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KAE8629195.1?report=genbank&log$=prottop&blast_rank=4&RID=0YY7GAM7013"",""KAE8629195.1"")"
+hypothetical protein XENTR_v10000392 [Xenopus tropicalis],Xenopus tropicalis,206,206,77%,4e-64,40.60,279,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KAE8629196.1?report=genbank&log$=prottop&blast_rank=5&RID=0YY7GAM7013"",""KAE8629196.1"")"
+LOW QUALITY PROTEIN: ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 2-like [Carcharodon carcharias],Carcharodon carcharias,184,184,77%,1e-55,37.77,291,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_041038273.1?report=genbank&log$=prottop&blast_rank=6&RID=0YY7GAM7013"",""XP_041038273.1"")"
+hypothetical protein XENTR_v10000392 [Xenopus tropicalis],Xenopus tropicalis,180,180,54%,1e-54,48.17,224,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KAE8629197.1?report=genbank&log$=prottop&blast_rank=7&RID=0YY7GAM7013"",""KAE8629197.1"")"
+ADP-ribosyl cyclase 2 isoform X3 [Gallus gallus],Gallus gallus,177,177,83%,8e-53,32.94,280,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_015141241.2?report=genbank&log$=prottop&blast_rank=8&RID=0YY7GAM7013"",""XP_015141241.2"")"
+ADP-ribosyl cyclase 2 isoform X2 [Gallus gallus],Gallus gallus,177,177,83%,2e-52,32.94,295,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_015141240.2?report=genbank&log$=prottop&blast_rank=9&RID=0YY7GAM7013"",""XP_015141240.2"")"
+ADP-ribosyl cyclase 2 precursor [Gallus gallus],Gallus gallus,177,177,83%,2e-52,32.94,316,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/NP_001186972.2?report=genbank&log$=prottop&blast_rank=10&RID=0YY7GAM7013"",""NP_001186972.2"")"
+ADP-ribosyl cyclase CD157 [Gallus gallus],Gallus gallus,176,176,83%,3e-52,32.94,316,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/ADQ89192.1?report=genbank&log$=prottop&blast_rank=11&RID=0YY7GAM7013"",""ADQ89192.1"")"
+ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 2 [Xenopus tropicalis],Xenopus tropicalis,173,173,83%,5e-51,33.73,303,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_004911290.1?report=genbank&log$=prottop&blast_rank=12&RID=0YY7GAM7013"",""XP_004911290.1"")"
+ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1-like [Danio rerio],Danio rerio,157,157,74%,2e-45,34.07,259,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_021325948.1?report=genbank&log$=prottop&blast_rank=13&RID=0YY7GAM7013"",""XP_021325948.1"")"
+hypothetical protein XENTR_v10000392 [Xenopus tropicalis],Xenopus tropicalis,155,155,48%,2e-45,45.89,208,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KAE8629200.1?report=genbank&log$=prottop&blast_rank=14&RID=0YY7GAM7013"",""KAE8629200.1"")"
+ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 2-like [Petromyzon marinus],Petromyzon marinus,158,158,87%,4e-45,32.20,312,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_032807965.1?report=genbank&log$=prottop&blast_rank=15&RID=0YY7GAM7013"",""XP_032807965.1"")"
+hypothetical protein XENTR_v10000392 [Xenopus tropicalis],Xenopus tropicalis,146,146,59%,1e-41,38.33,214,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KAE8629198.1?report=genbank&log$=prottop&blast_rank=16&RID=0YY7GAM7013"",""KAE8629198.1"")"
+hypothetical protein XENTR_v10000392 [Xenopus tropicalis],Xenopus tropicalis,130,130,54%,8e-36,38.65,193,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KAE8629201.1?report=genbank&log$=prottop&blast_rank=17&RID=0YY7GAM7013"",""KAE8629201.1"")"
+ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1-like isoform X2 [Carcharodon carcharias],Carcharodon carcharias,127,127,54%,2e-34,35.98,222,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_041052653.1?report=genbank&log$=prottop&blast_rank=18&RID=0YY7GAM7013"",""XP_041052653.1"")"
+ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 2-like isoform X1 [Petromyzon marinus],Petromyzon marinus,129,129,91%,3e-34,30.47,282,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_032807962.1?report=genbank&log$=prottop&blast_rank=19&RID=0YY7GAM7013"",""XP_032807962.1"")"
+ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1-like isoform X1 [Carcharodon carcharias],Carcharodon carcharias,127,127,54%,3e-34,35.98,241,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_041052645.1?report=genbank&log$=prottop&blast_rank=20&RID=0YY7GAM7013"",""XP_041052645.1"")"
+ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 2-like isoform X2 [Petromyzon marinus],Petromyzon marinus,125,125,67%,5e-33,33.99,252,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_032807963.1?report=genbank&log$=prottop&blast_rank=21&RID=0YY7GAM7013"",""XP_032807963.1"")"
+hypothetical protein XENTR_v10000392 [Xenopus tropicalis],Xenopus tropicalis,100,100,43%,1e-24,36.36,157,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KAE8629202.1?report=genbank&log$=prottop&blast_rank=22&RID=0YY7GAM7013"",""KAE8629202.1"")"
+ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1-like isoform X3 [Carcharodon carcharias],Carcharodon carcharias,99.4,99.4,54%,9e-24,32.32,210,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_041052661.1?report=genbank&log$=prottop&blast_rank=23&RID=0YY7GAM7013"",""XP_041052661.1"")"
+
+
+
+		
+
+

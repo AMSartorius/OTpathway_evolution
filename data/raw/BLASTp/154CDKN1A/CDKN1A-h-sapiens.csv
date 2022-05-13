@@ -1,0 +1,19 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+cyclin-dependent kinase inhibitor 1B-like [Branchiostoma floridae],Branchiostoma floridae,74.7,74.7,69%,6e-14,32.76,230,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_035662126.1?report=genbank&log$=prottop&blast_rank=1&RID=0CWW9F8K013"",""XP_035662126.1"")"
+CDKN1B [Branchiostoma lanceolatum],Branchiostoma lanceolatum,73.6,73.6,32%,3e-13,50.00,257,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH1250670.1?report=genbank&log$=prottop&blast_rank=2&RID=0CWW9F8K013"",""CAH1250670.1"")"
+PREDICTED: cyclin-dependent kinase inhibitor 1B-like [Priapulus caudatus],Priapulus caudatus,63.2,63.2,26%,6e-10,50.00,196,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014681711.1?report=genbank&log$=prottop&blast_rank=3&RID=0CWW9F8K013"",""XP_014681711.1"")"
+PREDICTED: cyclin dependent kinase inhibitor 1C-like protein isoform X1 [Saccoglossus kowalevskii],Saccoglossus kowalevskii,62.4,62.4,32%,2e-09,44.78,218,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_006818462.1?report=genbank&log$=prottop&blast_rank=4&RID=0CWW9F8K013"",""XP_006818462.1"")"
+cyclin dependent kinase inhibitor 1C-like protein [Saccoglossus kowalevskii],Saccoglossus kowalevskii,62.0,62.0,32%,2e-09,44.78,217,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/NP_001161523.1?report=genbank&log$=prottop&blast_rank=5&RID=0CWW9F8K013"",""NP_001161523.1"")"
+PREDICTED: cyclin-dependent kinase inhibitor 1-like [Priapulus caudatus],Priapulus caudatus,59.3,59.3,25%,2e-08,54.00,213,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014663915.1?report=genbank&log$=prottop&blast_rank=6&RID=0CWW9F8K013"",""XP_014663915.1"")"
+CDKN1B [Branchiostoma lanceolatum],Branchiostoma lanceolatum,58.5,58.5,28%,3e-08,49.12,199,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH1255551.1?report=genbank&log$=prottop&blast_rank=7&RID=0CWW9F8K013"",""CAH1255551.1"")"
+cyclin-dependent kinase inhibitor 1-like isoform X2 [Acropora millepora],Acropora millepora,55.5,55.5,26%,4e-07,46.15,200,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_029194460.1?report=genbank&log$=prottop&blast_rank=8&RID=0CWW9F8K013"",""XP_029194460.1"")"
+cyclin-dependent kinase inhibitor 1-like isoform X1 [Acropora millepora],Acropora millepora,55.5,55.5,26%,5e-07,46.15,207,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_029194457.1?report=genbank&log$=prottop&blast_rank=9&RID=0CWW9F8K013"",""XP_029194457.1"")"
+uncharacterized protein LOC114951776 [Acropora millepora],Acropora millepora,45.8,45.8,33%,0.001,39.71,185,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_029183742.2?report=genbank&log$=prottop&blast_rank=10&RID=0CWW9F8K013"",""XP_029183742.2"")"
+PREDICTED: cyclin-dependent kinase inhibitor 1B-like [Hydra vulgaris],Hydra vulgaris,43.1,43.1,25%,0.004,33.33,127,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_012556135.1?report=genbank&log$=prottop&blast_rank=11&RID=0CWW9F8K013"",""XP_012556135.1"")"
+hypothetical protein OCBIM_22012758mg [Octopus bimaculoides],Octopus bimaculoides,43.5,43.5,29%,0.012,35.00,463,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF99683.1?report=genbank&log$=prottop&blast_rank=12&RID=0CWW9F8K013"",""KOF99683.1"")"
+
+
+
+		
+
+

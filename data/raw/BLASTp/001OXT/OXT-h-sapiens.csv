@@ -1,0 +1,25 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+neurophysin 2-like [Asterias rubens],Asterias rubens,94.7,94.7,92%,2e-23,43.22,147,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_033633360.1?report=genbank&log$=prottop&blast_rank=1&RID=0841XVR7013"",""XP_033633360.1"")"
+annetocin precursor [Eisenia fetida],Eisenia fetida,85.9,85.9,85%,5e-20,43.59,139,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAD20057.2?report=genbank&log$=prottop&blast_rank=2&RID=0841XVR7013"",""CAD20057.2"")"
+Annetocin precursor [Eisenia fetida],Eisenia fetida,85.9,85.9,85%,5e-20,43.59,139,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/BAA36458.1?report=genbank&log$=prottop&blast_rank=3&RID=0841XVR7013"",""BAA36458.1"")"
+PREDICTED: conopressin/neurophysin-like isoform X2 [Octopus bimaculoides],Octopus bimaculoides,84.3,84.3,85%,3e-19,42.86,152,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014771389.1?report=genbank&log$=prottop&blast_rank=4&RID=0841XVR7013"",""XP_014771389.1"")"
+cephalotocin [Octopus vulgaris],Octopus vulgaris,84.3,84.3,85%,3e-19,42.86,152,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/BAC82436.1?report=genbank&log$=prottop&blast_rank=5&RID=0841XVR7013"",""BAC82436.1"")"
+PREDICTED: conopressin/neurophysin-like isoform X1 [Octopus bimaculoides],Octopus bimaculoides,82.0,82.0,84%,2e-18,41.44,153,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014771381.1?report=genbank&log$=prottop&blast_rank=6&RID=0841XVR7013"",""XP_014771381.1"")"
+PREDICTED: isotocin-neurophysin IT 1-like [Priapulus caudatus],Priapulus caudatus,79.0,79.0,69%,2e-17,44.94,134,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014669753.1?report=genbank&log$=prottop&blast_rank=7&RID=0841XVR7013"",""XP_014669753.1"")"
+PREDICTED: conopressin/neurophysin-like isoform X4 [Octopus bimaculoides],Octopus bimaculoides,74.3,74.3,83%,2e-15,41.12,145,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014771402.1?report=genbank&log$=prottop&blast_rank=8&RID=0841XVR7013"",""XP_014771402.1"")"
+octopressin [Octopus vulgaris],Octopus vulgaris,74.3,74.3,83%,2e-15,41.12,145,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/BAC82435.1?report=genbank&log$=prottop&blast_rank=9&RID=0841XVR7013"",""BAC82435.1"")"
+PREDICTED: conopressin/neurophysin-like isoform X3 [Octopus bimaculoides],Octopus bimaculoides,72.8,72.8,84%,7e-15,38.89,146,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014771397.1?report=genbank&log$=prottop&blast_rank=10&RID=0841XVR7013"",""XP_014771397.1"")"
+vasotocin precursor [Saccoglossus kowalevskii],Saccoglossus kowalevskii,72.8,72.8,100%,2e-14,33.33,171,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/NP_001161489.1?report=genbank&log$=prottop&blast_rank=11&RID=0841XVR7013"",""NP_001161489.1"")"
+PREDICTED: neurophysin 2-like [Priapulus caudatus],Priapulus caudatus,70.5,70.5,60%,3e-14,47.37,114,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014674318.1?report=genbank&log$=prottop&blast_rank=12&RID=0841XVR7013"",""XP_014674318.1"")"
+vasotocin precursor [Eptatretus burgeri],Eptatretus burgeri,71.2,71.2,88%,4e-14,41.46,161,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/BAA06668.1?report=genbank&log$=prottop&blast_rank=13&RID=0841XVR7013"",""BAA06668.1"")"
+AVP [Branchiostoma lanceolatum],Branchiostoma lanceolatum,68.2,68.2,84%,8e-13,37.72,167,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH1258508.1?report=genbank&log$=prottop&blast_rank=14&RID=0841XVR7013"",""CAH1258508.1"")"
+vasopressin-neurophysin 2-like [Branchiostoma floridae],Branchiostoma floridae,64.7,64.7,87%,2e-11,36.59,167,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_035674859.1?report=genbank&log$=prottop&blast_rank=15&RID=0841XVR7013"",""XP_035674859.1"")"
+uncharacterized protein LOC752998 isoform X1 [Strongylocentrotus purpuratus],Strongylocentrotus purpuratus,63.2,63.2,61%,2e-10,45.57,266,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_030841418.1?report=genbank&log$=prottop&blast_rank=16&RID=0841XVR7013"",""XP_030841418.1"")"
+uncharacterized protein LOC117294390 [Asterias rubens],Asterias rubens,47.8,47.8,80%,6e-05,36.70,239,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_033632660.1?report=genbank&log$=prottop&blast_rank=17&RID=0841XVR7013"",""XP_033632660.1"")"
+annetocin [Eisenia fetida],Eisenia fetida,37.4,37.4,28%,0.040,47.37,40,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/ACZ53946.1?report=genbank&log$=prottop&blast_rank=18&RID=0841XVR7013"",""ACZ53946.1"")"
+
+
+
+		
+
+

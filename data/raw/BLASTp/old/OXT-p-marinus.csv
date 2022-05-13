@@ -1,0 +1,16 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+neurophysin 2-like [Asterias rubens],Asterias rubens,86.7,86.7,52%,1e-19,48.24,147,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_033633360.1?report=genbank&log$=prottop&blast_rank=1&RID=6J4BS7N3013"",""XP_033633360.1"")"
+vasotocin precursor [Saccoglossus kowalevskii],Saccoglossus kowalevskii,77.0,77.0,48%,9e-16,46.99,171,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/NP_001161489.1?report=genbank&log$=prottop&blast_rank=2&RID=6J4BS7N3013"",""NP_001161489.1"")"
+PREDICTED: isotocin-neurophysin IT 1-like [Priapulus caudatus],Priapulus caudatus,72.4,72.4,42%,2e-14,53.73,134,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014669753.1?report=genbank&log$=prottop&blast_rank=3&RID=6J4BS7N3013"",""XP_014669753.1"")"
+PREDICTED: neurophysin 2-like [Priapulus caudatus],Priapulus caudatus,58.2,58.2,39%,4e-09,50.79,114,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014674318.1?report=genbank&log$=prottop&blast_rank=4&RID=6J4BS7N3013"",""XP_014674318.1"")"
+AVP [Branchiostoma lanceolatum],Branchiostoma lanceolatum,58.9,58.9,49%,7e-09,41.98,167,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH1258508.1?report=genbank&log$=prottop&blast_rank=5&RID=6J4BS7N3013"",""CAH1258508.1"")"
+vasopressin-neurophysin 2-like [Branchiostoma floridae],Branchiostoma floridae,57.4,57.4,49%,3e-08,41.98,167,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_035674859.1?report=genbank&log$=prottop&blast_rank=6&RID=6J4BS7N3013"",""XP_035674859.1"")"
+cephalotocin [Octopus vulgaris],Octopus vulgaris,53.9,53.9,52%,4e-07,39.33,152,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/BAC82436.1?report=genbank&log$=prottop&blast_rank=7&RID=6J4BS7N3013"",""BAC82436.1"")"
+uncharacterized protein LOC752998 isoform X1 [Strongylocentrotus purpuratus],Strongylocentrotus purpuratus,55.1,55.1,46%,4e-07,42.47,266,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_030841418.1?report=genbank&log$=prottop&blast_rank=8&RID=6J4BS7N3013"",""XP_030841418.1"")"
+octopressin [Octopus vulgaris],Octopus vulgaris,52.0,52.0,52%,2e-06,39.08,145,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/BAC82435.1?report=genbank&log$=prottop&blast_rank=9&RID=6J4BS7N3013"",""BAC82435.1"")"
+
+
+
+		
+
+

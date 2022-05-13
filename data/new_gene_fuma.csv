@@ -1,0 +1,30 @@
+Tissue,Expression,sig
+Brain,3.326315789,yes
+Muscle,1.831578947,no
+Breast,0.673684211,no
+Small intestine,0.463157895,no
+Colon,0.452631579,no
+Fallopian tube,0.389473684,no
+Heart,0.389473684,no
+Blood,0.294736842,no
+Pituatary,0.294736842,no
+Testis,0.284210526,no
+Adipose tissue,0.273684211,no
+Bladder,0.242105263,no
+Spleen,0.221052632,no
+Ovary,0.210526316,no
+Vagina,0.168421053,no
+Prostate,0.168421053,no
+Esophagus,0.157894737,no
+Blood vessel,0.136842105,no
+Liver,0.126315789,no
+Cervix,0.094736842,no
+Uterus,0.063157895,no
+Lung,0.052631579,no
+Thyriod,0.052631579,no
+Kidney,0.021052632,no
+Pancreas,0,no
+Salivary gland,0,no
+Skin,0,no
+Stomach,0,no
+Adrenal Gland,0,no

@@ -1,0 +1,23 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+voltage-dependent calcium channel gamma-3 subunit-like [Branchiostoma floridae],Branchiostoma floridae,130,130,88%,1e-31,31.67,454,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_035696291.1?report=genbank&log$=prottop&blast_rank=1&RID=0588JBH4016"",""XP_035696291.1"")"
+CACNG3 [Branchiostoma lanceolatum],Branchiostoma lanceolatum,129,129,88%,3e-31,30.87,454,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH1273584.1?report=genbank&log$=prottop&blast_rank=2&RID=0588JBH4016"",""CAH1273584.1"")"
+voltage-dependent calcium channel gamma-5 subunit-like [Branchiostoma floridae],Branchiostoma floridae,123,123,63%,4e-30,32.56,333,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_035696133.1?report=genbank&log$=prottop&blast_rank=3&RID=0588JBH4016"",""XP_035696133.1"")"
+CACNG5 [Branchiostoma lanceolatum],Branchiostoma lanceolatum,120,120,63%,5e-29,32.09,332,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH1273586.1?report=genbank&log$=prottop&blast_rank=4&RID=0588JBH4016"",""CAH1273586.1"")"
+PREDICTED: voltage-dependent calcium channel gamma-5 subunit-like [Saccoglossus kowalevskii],Saccoglossus kowalevskii,115,115,64%,5e-28,31.96,247,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_006816113.1?report=genbank&log$=prottop&blast_rank=5&RID=0588JBH4016"",""XP_006816113.1"")"
+transmembrane GluA regulatory protein [Ciona intestinalis],Ciona intestinalis,117,117,59%,1e-26,33.50,753,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/BAV92798.1?report=genbank&log$=prottop&blast_rank=6&RID=0588JBH4016"",""BAV92798.1"")"
+uncharacterized protein LOC113474605 [Ciona intestinalis],Ciona intestinalis,114,114,59%,2e-25,32.67,755,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_026692152.1?report=genbank&log$=prottop&blast_rank=7&RID=0588JBH4016"",""XP_026692152.1"")"
+PREDICTED: voltage-dependent calcium channel gamma-7 subunit-like [Saccoglossus kowalevskii],Saccoglossus kowalevskii,100,100,40%,2e-22,36.88,241,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_006822518.1?report=genbank&log$=prottop&blast_rank=8&RID=0588JBH4016"",""XP_006822518.1"")"
+PREDICTED: voltage-dependent calcium channel gamma-5 subunit-like [Octopus bimaculoides],Octopus bimaculoides,100,100,62%,4e-21,30.23,463,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014776145.1?report=genbank&log$=prottop&blast_rank=9&RID=0588JBH4016"",""XP_014776145.1"")"
+hypothetical protein OCBIM_22024219mg [Octopus bimaculoides],Octopus bimaculoides,100,100,62%,6e-21,30.23,467,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF83196.1?report=genbank&log$=prottop&blast_rank=10&RID=0588JBH4016"",""KOF83196.1"")"
+PREDICTED: voltage-dependent calcium channel gamma-5 subunit-like [Octopus bimaculoides],Octopus bimaculoides,92.8,92.8,62%,2e-19,28.77,248,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014776155.1?report=genbank&log$=prottop&blast_rank=11&RID=0588JBH4016"",""XP_014776155.1"")"
+voltage-dependent calcium channel gamma-5 subunit-like [Asterias rubens],Asterias rubens,70.9,70.9,58%,2e-11,27.32,275,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_033631002.1?report=genbank&log$=prottop&blast_rank=12&RID=0588JBH4016"",""XP_033631002.1"")"
+hypothetical protein OCBIM_22024222mg [Octopus bimaculoides],Octopus bimaculoides,62.4,62.4,36%,5e-09,27.05,180,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF83199.1?report=genbank&log$=prottop&blast_rank=13&RID=0588JBH4016"",""KOF83199.1"")"
+hypothetical protein OCBIM_22014266mg [Octopus bimaculoides],Octopus bimaculoides,45.1,45.1,17%,4e-04,36.67,62,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF64403.1?report=genbank&log$=prottop&blast_rank=14&RID=0588JBH4016"",""KOF64403.1"")"
+hypothetical protein OCBIM_22012762mg [Octopus bimaculoides],Octopus bimaculoides,47.0,47.0,19%,5e-04,41.27,140,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF89619.1?report=genbank&log$=prottop&blast_rank=15&RID=0588JBH4016"",""KOF89619.1"")"
+hypothetical protein OCBIM_22013785mg [Octopus bimaculoides],Octopus bimaculoides,39.3,39.3,19%,0.047,39.71,61,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF64385.1?report=genbank&log$=prottop&blast_rank=16&RID=0588JBH4016"",""KOF64385.1"")"
+
+
+
+		
+
+

@@ -1,0 +1,10 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+CACNG5 [Branchiostoma lanceolatum],Branchiostoma lanceolatum,110,110,46%,2e-25,41.38,332,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH1273586.1?report=genbank&log$=prottop&blast_rank=1&RID=058ZEMWN01R"",""CAH1273586.1"")"
+voltage-dependent calcium channel gamma-5 subunit-like [Branchiostoma floridae],Branchiostoma floridae,108,108,46%,7e-25,40.69,333,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_035696133.1?report=genbank&log$=prottop&blast_rank=2&RID=058ZEMWN01R"",""XP_035696133.1"")"
+PREDICTED: voltage-dependent calcium channel gamma-5 subunit-like [Saccoglossus kowalevskii],Saccoglossus kowalevskii,79.3,79.3,46%,1e-14,34.48,247,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_006816113.1?report=genbank&log$=prottop&blast_rank=3&RID=058ZEMWN01R"",""XP_006816113.1"")"
+
+
+
+		
+
+

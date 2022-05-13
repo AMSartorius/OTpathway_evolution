@@ -1,0 +1,23 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+RCAN2 [Branchiostoma lanceolatum],Branchiostoma lanceolatum,161,161,86%,2e-47,48.57,223,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH1226532.1?report=genbank&log$=prottop&blast_rank=1&RID=0812WJWT013"",""CAH1226532.1"")"
+PREDICTED: calcipressin-2-like [Octopus bimaculoides],Octopus bimaculoides,164,164,91%,3e-47,45.95,323,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014776659.1?report=genbank&log$=prottop&blast_rank=2&RID=0812WJWT013"",""XP_014776659.1"")"
+calcipressin-2-like isoform X1 [Branchiostoma floridae],Branchiostoma floridae,160,160,86%,3e-47,48.57,224,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_035686625.1?report=genbank&log$=prottop&blast_rank=3&RID=0812WJWT013"",""XP_035686625.1"")"
+PREDICTED: calcipressin-1-like [Priapulus caudatus],Priapulus caudatus,148,148,92%,2e-42,39.47,216,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014676715.1?report=genbank&log$=prottop&blast_rank=4&RID=0812WJWT013"",""XP_014676715.1"")"
+calcipressin-1-like [Ciona intestinalis],Ciona intestinalis,144,144,90%,4e-41,42.39,191,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_002131413.1?report=genbank&log$=prottop&blast_rank=5&RID=0812WJWT013"",""XP_002131413.1"")"
+calcipressin-1-like [Asterias rubens],Asterias rubens,145,145,90%,1e-40,41.76,253,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_033635765.1?report=genbank&log$=prottop&blast_rank=6&RID=0812WJWT013"",""XP_033635765.1"")"
+calcipressin-1-like [Acropora millepora],Acropora millepora,134,134,94%,5e-37,38.50,224,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_029183592.2?report=genbank&log$=prottop&blast_rank=7&RID=0812WJWT013"",""XP_029183592.2"")"
+calcipressin-3 [Strongylocentrotus purpuratus],Strongylocentrotus purpuratus,129,129,90%,7e-35,39.67,206,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_030850531.1?report=genbank&log$=prottop&blast_rank=8&RID=0812WJWT013"",""XP_030850531.1"")"
+Calcipressin-like protein [Caenorhabditis elegans],Caenorhabditis elegans,127,127,76%,2e-34,41.03,207,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/NP_498223.2?report=genbank&log$=prottop&blast_rank=9&RID=0812WJWT013"",""NP_498223.2"")"
+PREDICTED: calcipressin-1-like [Hydra vulgaris],Hydra vulgaris,120,120,85%,1e-31,43.93,198,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_002168620.3?report=genbank&log$=prottop&blast_rank=10&RID=0812WJWT013"",""XP_002168620.3"")"
+PREDICTED: protein sarah-like [Saccoglossus kowalevskii],Saccoglossus kowalevskii,100,100,39%,4e-25,60.76,102,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_006825325.1?report=genbank&log$=prottop&blast_rank=11&RID=0812WJWT013"",""XP_006825325.1"")"
+hypothetical protein OCBIM_22025240mg [Octopus bimaculoides],Octopus bimaculoides,96.7,96.7,53%,2e-23,50.00,113,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF82490.1?report=genbank&log$=prottop&blast_rank=12&RID=0812WJWT013"",""KOF82490.1"")"
+PREDICTED: calcipressin-1-like [Amphimedon queenslandica],Amphimedon queenslandica,98.6,98.6,67%,2e-23,40.74,191,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_011404173.1?report=genbank&log$=prottop&blast_rank=13&RID=0812WJWT013"",""XP_011404173.1"")"
+hypothetical protein OCBIM_22025241mg [Octopus bimaculoides],Octopus bimaculoides,74.3,74.3,38%,5e-14,43.42,202,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF82491.1?report=genbank&log$=prottop&blast_rank=14&RID=0812WJWT013"",""KOF82491.1"")"
+uncharacterized protein PTSG_02964 [Salpingoeca rosetta],Salpingoeca rosetta,58.9,58.9,31%,2e-08,44.62,164,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_004996479.1?report=genbank&log$=prottop&blast_rank=15&RID=0812WJWT013"",""XP_004996479.1"")"
+uncharacterized protein MONBRDRAFT_3061 [Monosiga brevicollis MX1],Monosiga brevicollis MX1,55.5,55.5,26%,3e-08,49.06,53,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_001745353.1?report=genbank&log$=prottop&blast_rank=16&RID=0812WJWT013"",""XP_001745353.1"")"
+
+
+
+		
+
+
