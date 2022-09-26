@@ -1,0 +1,24 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+transcription factor protein [Ciona intestinalis],Ciona intestinalis,74.3,74.3,27%,3e-12,61.18,501,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/NP_001071706.1?report=genbank&log$=prottop&blast_rank=1&RID=6MTM67NU016"",""NP_001071706.1"")"
+transcription factor protein isoform X3 [Ciona intestinalis],Ciona intestinalis,74.3,74.3,27%,4e-12,61.18,522,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_009860203.2?report=genbank&log$=prottop&blast_rank=2&RID=6MTM67NU016"",""XP_009860203.2"")"
+transcription factor protein isoform X2 [Ciona intestinalis],Ciona intestinalis,74.3,74.3,27%,4e-12,61.18,555,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_009860202.1?report=genbank&log$=prottop&blast_rank=3&RID=6MTM67NU016"",""XP_009860202.1"")"
+transcription factor protein isoform X1 [Ciona intestinalis],Ciona intestinalis,73.9,73.9,27%,4e-12,61.18,526,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_018669415.1?report=genbank&log$=prottop&blast_rank=4&RID=6MTM67NU016"",""XP_018669415.1"")"
+PREDICTED: fos-related antigen 1-like [Priapulus caudatus],Priapulus caudatus,72.0,72.0,29%,1e-11,60.67,362,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014670401.1?report=genbank&log$=prottop&blast_rank=5&RID=6MTM67NU016"",""XP_014670401.1"")"
+fos-related antigen 1-like [Branchiostoma floridae],Branchiostoma floridae,68.6,68.6,18%,2e-10,63.16,357,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_035675724.1?report=genbank&log$=prottop&blast_rank=6&RID=6MTM67NU016"",""XP_035675724.1"")"
+FOSL1 [Branchiostoma lanceolatum],Branchiostoma lanceolatum,66.6,66.6,18%,8e-10,62.50,364,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH1262699.1?report=genbank&log$=prottop&blast_rank=7&RID=6MTM67NU016"",""CAH1262699.1"")"
+cyclic AMP-dependent transcription factor ATF-3-like [Branchiostoma floridae],Branchiostoma floridae,56.2,56.2,29%,3e-07,49.44,151,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_035665575.1?report=genbank&log$=prottop&blast_rank=8&RID=6MTM67NU016"",""XP_035665575.1"")"
+PREDICTED: fos-related antigen 2-like [Saccoglossus kowalevskii],Saccoglossus kowalevskii,58.2,58.2,27%,5e-07,50.00,317,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_002741340.2?report=genbank&log$=prottop&blast_rank=9&RID=6MTM67NU016"",""XP_002741340.2"")"
+uncharacterized protein LOC118416309 isoform X2 [Branchiostoma floridae],Branchiostoma floridae,57.0,57.0,32%,1e-06,46.46,297,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_035677301.1?report=genbank&log$=prottop&blast_rank=10&RID=6MTM67NU016"",""XP_035677301.1"")"
+uncharacterized protein LOC118416309 isoform X1 [Branchiostoma floridae],Branchiostoma floridae,57.0,57.0,32%,1e-06,46.46,327,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_035677294.1?report=genbank&log$=prottop&blast_rank=11&RID=6MTM67NU016"",""XP_035677294.1"")"
+ATF3 [Branchiostoma lanceolatum],Branchiostoma lanceolatum,51.6,51.6,27%,7e-05,51.19,297,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH1262697.1?report=genbank&log$=prottop&blast_rank=12&RID=6MTM67NU016"",""CAH1262697.1"")"
+PREDICTED: cyclic AMP-dependent transcription factor ATF-3-like [Saccoglossus kowalevskii],Saccoglossus kowalevskii,48.9,48.9,27%,2e-04,44.05,172,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_006824836.1?report=genbank&log$=prottop&blast_rank=13&RID=6MTM67NU016"",""XP_006824836.1"")"
+cyclic AMP-dependent transcription factor ATF-3-like [Acropora millepora],Acropora millepora,43.1,43.1,26%,0.016,51.25,161,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_044174452.1?report=genbank&log$=prottop&blast_rank=14&RID=6MTM67NU016"",""XP_044174452.1"")"
+cyclic AMP-dependent transcription factor ATF-3-like [Acropora millepora],Acropora millepora,42.7,42.7,26%,0.018,51.25,161,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_029183384.1?report=genbank&log$=prottop&blast_rank=15&RID=6MTM67NU016"",""XP_029183384.1"")"
+proto-oncogene c-Fos-like isoform X1 [Acropora millepora],Acropora millepora,42.7,42.7,39%,0.038,35.83,220,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_029183378.1?report=genbank&log$=prottop&blast_rank=16&RID=6MTM67NU016"",""XP_029183378.1"")"
+fos-related antigen 2-like isoform X2 [Acropora millepora],Acropora millepora,42.0,42.0,39%,0.050,35.83,193,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_029183380.1?report=genbank&log$=prottop&blast_rank=17&RID=6MTM67NU016"",""XP_029183380.1"")"
+
+
+
+		
+
+

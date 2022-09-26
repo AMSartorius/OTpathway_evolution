@@ -1,0 +1,21 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+CACNG3 [Branchiostoma lanceolatum],Branchiostoma lanceolatum,122,122,84%,6e-29,32.14,454,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH1273584.1?report=genbank&log$=prottop&blast_rank=1&RID=05893E1B01R"",""CAH1273584.1"")"
+voltage-dependent calcium channel gamma-3 subunit-like [Branchiostoma floridae],Branchiostoma floridae,122,122,84%,1e-28,32.14,454,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_035696291.1?report=genbank&log$=prottop&blast_rank=2&RID=05893E1B01R"",""XP_035696291.1"")"
+transmembrane GluA regulatory protein [Ciona intestinalis],Ciona intestinalis,120,120,57%,2e-27,35.86,753,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/BAV92798.1?report=genbank&log$=prottop&blast_rank=3&RID=05893E1B01R"",""BAV92798.1"")"
+PREDICTED: voltage-dependent calcium channel gamma-5 subunit-like [Saccoglossus kowalevskii],Saccoglossus kowalevskii,114,114,67%,3e-27,32.31,247,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_006816113.1?report=genbank&log$=prottop&blast_rank=4&RID=05893E1B01R"",""XP_006816113.1"")"
+voltage-dependent calcium channel gamma-5 subunit-like [Branchiostoma floridae],Branchiostoma floridae,110,110,71%,3e-25,29.13,333,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_035696133.1?report=genbank&log$=prottop&blast_rank=5&RID=05893E1B01R"",""XP_035696133.1"")"
+uncharacterized protein LOC113474605 [Ciona intestinalis],Ciona intestinalis,112,112,57%,1e-24,32.83,755,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_026692152.1?report=genbank&log$=prottop&blast_rank=6&RID=05893E1B01R"",""XP_026692152.1"")"
+CACNG5 [Branchiostoma lanceolatum],Branchiostoma lanceolatum,105,105,61%,1e-23,30.84,332,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/CAH1273586.1?report=genbank&log$=prottop&blast_rank=7&RID=05893E1B01R"",""CAH1273586.1"")"
+PREDICTED: voltage-dependent calcium channel gamma-7 subunit-like [Saccoglossus kowalevskii],Saccoglossus kowalevskii,100,100,40%,3e-22,39.16,241,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_006822518.1?report=genbank&log$=prottop&blast_rank=8&RID=05893E1B01R"",""XP_006822518.1"")"
+PREDICTED: voltage-dependent calcium channel gamma-5 subunit-like [Octopus bimaculoides],Octopus bimaculoides,101,101,62%,3e-21,31.16,463,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014776145.1?report=genbank&log$=prottop&blast_rank=9&RID=05893E1B01R"",""XP_014776145.1"")"
+hypothetical protein OCBIM_22024219mg [Octopus bimaculoides],Octopus bimaculoides,101,101,62%,3e-21,31.16,467,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF83196.1?report=genbank&log$=prottop&blast_rank=10&RID=05893E1B01R"",""KOF83196.1"")"
+PREDICTED: voltage-dependent calcium channel gamma-5 subunit-like [Octopus bimaculoides],Octopus bimaculoides,92.4,92.4,62%,3e-19,29.68,248,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_014776155.1?report=genbank&log$=prottop&blast_rank=11&RID=05893E1B01R"",""XP_014776155.1"")"
+hypothetical protein OCBIM_22024222mg [Octopus bimaculoides],Octopus bimaculoides,67.8,67.8,42%,6e-11,29.25,180,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF83199.1?report=genbank&log$=prottop&blast_rank=12&RID=05893E1B01R"",""KOF83199.1"")"
+voltage-dependent calcium channel gamma-5 subunit-like [Asterias rubens],Asterias rubens,63.2,63.2,44%,1e-08,27.92,275,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/XP_033631002.1?report=genbank&log$=prottop&blast_rank=13&RID=05893E1B01R"",""XP_033631002.1"")"
+hypothetical protein OCBIM_22014266mg [Octopus bimaculoides],Octopus bimaculoides,50.8,50.8,17%,5e-06,41.67,62,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/KOF64403.1?report=genbank&log$=prottop&blast_rank=14&RID=05893E1B01R"",""KOF64403.1"")"
+
+
+
+		
+
+
