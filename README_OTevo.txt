@@ -3,7 +3,7 @@
 >> Software. You need R, R Studio, Jupyter Lab, and Python.
 
 ## workflow ##
-01OTevo_mainscript.R - until checkpoint "BLASTp/microsynteny analyses"
+01OTevo_mainscript.R - run until checkpoint "BLASTp/microsynteny analyses"
 
 02BLASTp_evaluation.R - run the whole script
 
