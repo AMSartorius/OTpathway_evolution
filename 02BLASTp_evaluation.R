@@ -2,8 +2,8 @@
 ##### SET UP WORKING ENVIRONMENT #####
 ######################################
 
-rm(list = ls()) # delete all objects in the workspace
-gc(reset = T)   # resest memory (especially useful when working with large data sets)
+# rm(list = ls()) # delete all objects in the workspace, USE WITH CAUTION
+# gc(reset = T)   # resest memory (especially useful when working with large data sets), USE WITH CAUTION
 
 options(stringsAsFactors = F) # disables automatic conversion of char. strings into factors
 Sys.setenv(LANG = "en")
