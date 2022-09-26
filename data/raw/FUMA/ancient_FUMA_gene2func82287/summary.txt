@@ -1,0 +1,8 @@
+Number of input genes	28
+Number of background genes	20260
+Number of input genes with recognised Ensembl ID	25
+Input genes without recognised Ensembl ID	CANCB2:CAMK2:GUCY1B1
+Number of background genes with recognised Ensembl ID	20260
+Background genes without recognised Ensembl ID	NA
+Number of input genes with unique entrez ID	26
+Number of background genes with unique entrez ID	19277
