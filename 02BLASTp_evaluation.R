@@ -1472,8 +1472,8 @@ for (i in 11:20) {
 OTpthwy.ress %>% 
   count(age.3.levels.vert)
 
-# uncomment to export results
-# write_xlsx(OTpthwy.ress, paste0(path, "output/BLASTp/OTpthwy_res02_vertebrate_threshold.xlsx"))
+# export results
+write_xlsx(OTpthwy.ress, paste0(path, "output/BLASTp/OTpthwy_res02_vertebrate_threshold.xlsx"))
 
 
 
