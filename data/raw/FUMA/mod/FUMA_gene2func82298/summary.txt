@@ -1,8 +1,0 @@
-Number of input genes	98
-Number of background genes	20260
-Number of input genes with recognised Ensembl ID	96
-Input genes without recognised Ensembl ID	KCNJ18:GUCY1A1
-Number of background genes with recognised Ensembl ID	20260
-Background genes without recognised Ensembl ID	NA
-Number of input genes with unique entrez ID	97
-Number of background genes with unique entrez ID	19277
