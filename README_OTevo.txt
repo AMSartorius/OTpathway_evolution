@@ -3,7 +3,7 @@
 >> Software: You need R, R Studio, Jupyter Lab, and Python.
 
 >> Set up: Download all files and put them in one folder (e.g., "OTpathway_evolution-main"). 
-           CREATE AND R PROJECT IN THAT FOLDER. 
+           CREATE AN R PROJECT IN THAT FOLDER. 
            Operate from within that R project, otherwise the relative paths will NOT work.
 
 ## start of workflow ##
